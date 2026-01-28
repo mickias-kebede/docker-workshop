@@ -1,0 +1,2 @@
+Hello from host
+This line is added from the container

@@ -1,3 +1,9 @@
+*.parquet
+
+# PostgreSQL data
+ny_taxi_postgres_data/
+pgdata/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
